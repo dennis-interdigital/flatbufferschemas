@@ -1,9 +1,9 @@
-namespace ClawMachineData;
+namespace ClawMachineUserData;
 
-table ClawMachineUserData
+table UserData
 {
 	coin: int;
 	diamond: int;
 }
 
-root_type ClawMachineUserData;
+root_type ClawMachine;
